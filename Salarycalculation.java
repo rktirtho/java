@@ -1,7 +1,7 @@
 
 package salarycalculation;
 
-public class Salarycalculation {
+public class SalaryCalculation {
 
    
     public static void main(String[] args) {
